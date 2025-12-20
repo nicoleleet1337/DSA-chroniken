@@ -1,3 +1,9 @@
 theme: minima
 title: Tandraxas Schwur - Chroniken 
 description: Berichte aus dem Norden
+
+header_pages:
+  - index.md
+  - stories.md
+  - characters.md
+  - places.md
