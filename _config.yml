@@ -1,6 +1,7 @@
 theme: minima
 title: Tandraxas Schwur - Chroniken 
 description: Berichte aus dem Norden
+baseurl: "/DSA-chroniken"
 
 header_pages:
   - index.md
