@@ -1,0 +1,36 @@
+---
+---
+
+@import "minima";
+
+/* Hintergrund & Text */
+body {
+  background-color: #f4f1ec;
+  color: #2b2b2b;
+}
+
+/* Fließtext angenehmer */
+.page-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+/* Überschriften etwas weicher */
+h1, h2, h3 {
+  color: #1f2a24;
+}
+
+/* Links unaufdringlich */
+a {
+  color: #4a6a5c;
+}
+
+a:hover {
+  color: #2f4f44;
+}
+
+/* Header dezenter, buchartiger */
+.site-header {
+  border-bottom: 1px solid #cfc8bc;
+  background-color: #ede9e2;
+}
