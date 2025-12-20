@@ -1,5 +1,3 @@
-# Die Chroniken von 'Tandraxas Schwur'
-
 Willkommen, Reisende.
 
 Dies ist die Sammlung der Berichte, Karten und Erinnerungen unserer Wege
