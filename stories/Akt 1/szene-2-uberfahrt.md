@@ -1,7 +1,8 @@
-Majestätisch ziehen die Wogen, von weißen Kronen gekrönt, durch das Stahlblau des Meeres. 
-
-Die Sonne fängt sich in ihnen und sie brechen ihr Licht in tausend Farben.
-Gülden leuchtet das Meer am Morgen, erstrahlt des Tages grün und blau und liegt wie ein schwarzer Schleier des nächtens über der Welt, in dessen Falten und Tälern sich das Mondlicht fängt.
+### Die Überfahrt
+- - -
+*Majestätisch ziehen die Wogen, von weißen Kronen gekrönt, durch das Stahlblau des Meeres. Die Sonne fängt sich in ihnen und sie brechen ihr Licht in tausend Farben.
+Gülden leuchtet das Meer am Morgen, erstrahlt des Tages grün und blau und liegt wie ein schwarzer Schleier des nächtens über der Welt, in dessen Falten und Tälern sich das Mondlicht fängt.*
+- - -
 
 Der Wind spielt mit dem Wasser und lässt es lautstark gegen den Rumpf schlagen.
 Mal ist der Wind ein seliger Freund, der Dein Haar ergreift und es zärtlich durchfährt, doch mit einem Male ist es der peitschende eisige salzige Wind, der dröhnend in die Segel fährt, der Taue und Wanten zum Knarren und Ächzen bringt. 
