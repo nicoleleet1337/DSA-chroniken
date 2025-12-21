@@ -1,6 +1,8 @@
 - - -
-<span class="symbol chapter">✦</span> # Am Hafen
-<span class="symbol travel">❖</span>## Euer Abenteuer beginnt.
+<span class="symbol chapter">✦</span> 
+# Am Hafen
+<span class="symbol travel">❖</span>
+## Euer Abenteuer beginnt.
 - - -
 
 *Nebelschwaden, einige einsam kreisende Möwen, viele Liegeplätze für Schiffe, nur einer davon belegt mit der „Seelöwe“, die ersten Händler eröffnen ihre Stände und Läden, das Schiff liegt in der Morgensonne leise schwankend an der Hafenmauer, vor dem Schiff ist eine Schlange wartender Passagiere, an einem kleinen Tisch sitzt ein kleiner Kerl und schreibt Dinge auf.*
