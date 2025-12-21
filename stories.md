@@ -27,7 +27,7 @@ In den folgenden Seiten werden die von mir vorgelesenen szenerischen Beschreibun
 - [Moral und Morast](stories/single/morast.md)
 
 *Abenteuer für Anysia.*
-- [Kland der Nacht](stories/single/nacht-klang.md)
+- [Klang der Nacht](stories/single/nacht-klang.md)
 
 
 ## Vorlagen / Reinschriften
