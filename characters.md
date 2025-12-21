@@ -14,6 +14,7 @@ die man besser nicht nachts trifft.
 - [Nagual](characters/nagual.md)
 - [Alerik](characters/alerik.md)
 - [Nesuda](characters/nesuda.md)
+- [Ren](characters/ren.md)
 
 ### <ins>Weggefährten</ins>
 - [Murk](characters/murk.md)
