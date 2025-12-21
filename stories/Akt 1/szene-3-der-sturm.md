@@ -14,8 +14,7 @@ Unter Deck wird jeder hin und her geworfen. Man knallt von einer Bordwand zur an
 Die Dünung wird stärker, das Schiff stampft und rollt als wäre es ein wilder Stier.
 Wieder ein Blitz, und sogleich der Donnerschlag. 
 Das Schiff erbebt, alles erzittert unter der Stimme des Himmels.
-Der nächste Blitz schlägt nieder, es dröhnt als bräche der Himmel selbst entzwei.
-{: .story }
+Der nächste Blitz schlägt nieder, es dröhnt als bräche der Himmel selbst entzwei.{: .story }  
 
 Mit einem Mal beginnt das feuchte Holz der Stufen und Planken, das des Mastes und der Brüstung in grünem Licht zu leuchten. Selbst die Taue und Segel schimmern grünlich.
 Es ist Efferd‘s Feuer.
