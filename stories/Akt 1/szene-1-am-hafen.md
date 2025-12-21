@@ -6,9 +6,9 @@
 - - -
 
 <div class="story">Es ist früher Morgen an einem eigentlich klaren Tag des Monats Ingerimm (Mai), der späte Frühling geht zu Ende, doch der Nebel liegt schwer auf dem weitläufigen Hafen der Hauptstadt der Markgrafschaft Beilunk, so schwer, dass selbst die Möwen nicht recht fliegen wollen. 
-Das fahle milchige Licht der Sonne wirft nur widerwillig Schatten auf dem Boden und so wirkt es wie im Traum, die Silhouette des großen Handelsschiffs vor sich in einiger Entfernung stehen zu sehen.</div>
+Das fahle milchige Licht der Sonne wirft nur widerwillig Schatten auf dem Boden und so wirkt es wie im Traum, die Silhouette des großen Handelsschiffs vor sich in einiger Entfernung stehen zu sehen.
 Leise wiegt es sich in der leichten Dünung hin und her. Die Tampen (Seile/Taue) der Takelage flattern in jeder kleinsten Windböe und ihre Beschläge und alle Rollen klimpern lustig singend im Wind. 
-Der Platz vor dem Anlegeplatz ist geformt wie ein großes Dreieck mit einer Kantenlänge von fünfzig Schritt. 
+Der Platz vor dem Anlegeplatz ist geformt wie ein großes Dreieck mit einer Kantenlänge von fünfzig Schritt. </div>
 
 Die Hafenmauer ist alt und brüchig, hie und da lugen bereits die Holzbalken des Unterbaus hervor. Mächtige Eichen- und Ulmenstämme sind in den Hafenboden getrieben worden, um die Schiffe auch im größten Sturm sicher vertäut zu halten.
 Zahllose Fässer und Kisten stehen bereit um auf das Schiff verladen zu werden. 
