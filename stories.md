@@ -7,8 +7,7 @@ title: Geschichten
 
 #### Tandraxas Schwur
 
-*Das Abenteuer ist aufgeteilt in drei Akte. Jeder Akt ist unterteilt in Szenen. Im Schnitt behandelten wir pro Sitzung 5-7 Szenen. 
-In den folgenden Seiten werden die von mir vorgelesenen szenerischen Beschreibungen wiedergegeben und Eure Erlebnisse erzählt.*
+*Das Abenteuer ist aufgeteilt in drei Akte. Jeder Akt ist unterteilt in Szenen. In den folgenden Seiten werden die von mir vorgelesenen szenerischen Beschreibungen wiedergegeben und Eure Erlebnisse erzählt.*
 - [x] Akt 1: Inhalt 17 Szenen
 - [ ] Akt 2: Inhalt 19 Szenen
 - [ ] Akt 3: Inhalt 18 Szenen
