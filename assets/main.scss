@@ -80,12 +80,13 @@ a:hover {
 .symbol.secret { color: #956b41; }       /* ⚚ */
 .symbol.decor { color: #bfa15f; }         /* ❂ */
 
-.story p:first-of-type::first-letter {
+.story::first-letter {
   float: left;
   font-size: 4.5rem;
   line-height: 0.9;
   padding-right: 0.35rem;
-  font-family: "Cinzel", serif;
+  padding-top: 0.1rem;
+  font-family: "Cinzel", "Cormorant Garamond", serif;
   color: #5a3d1c;
 }
 
