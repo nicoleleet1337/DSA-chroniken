@@ -1,4 +1,4 @@
-<span class="symbol decor">❂</span>Willkommen, Reisende.<span class="symbol decor">❂</span>
+<p style="text-align: center;"><span class="symbol decor">❂</span>Willkommen, Reisende.<span class="symbol decor">❂</span></p>
 
 Dies ist die Sammlung der Berichte, Karten und Erinnerungen unserer Wege
 durch das raue Land zwischen Moor, Wald und kaltem Himmel.
