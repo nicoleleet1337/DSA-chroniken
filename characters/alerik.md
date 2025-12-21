@@ -2,7 +2,7 @@
 <span class="symbol npc">✺</span> **Alerik**
 <span class="symbol travel">➳</span> **Ritter von Irgendwo**
 
-#### Wie man es sich in den Spilunken erzählt:
+#### Wie man es sich in den Spelunken erzählt:
 
 Alerik, Ritter und Edelmann. So stellte er sich vor, mit der Brust eines Gockels und der Substanz eines nassen Holzscheits. Er trug seinen Wappenrock wie eine Bühne, seine Topfhelm wie einen Eimer und seinen Namen wie eine Heldensage, die leider niemand bestellt hatte. Wo immer er erschien, kündigte er sich selbst an, denn er vertraute fest darauf, dass sein Ruf ihm vorausgeeilt sei. Was er jedoch dabei nicht bedachte: Es war nicht Ruhm, sondern Gelächter. 
 {: .story }
