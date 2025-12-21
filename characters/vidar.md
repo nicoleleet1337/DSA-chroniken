@@ -1,8 +1,8 @@
-# Vidar
-## Was uns überliefert wurde
 - - -
+<span class="symbol npc">✺</span> **Vidar**
+<span class="symbol travel">➳</span> **Was uns überliefert wurde...**
 
-#### Aus seinem Brief an die Weise:
+#### Aus seinem Brief an die Meisterin über Raum und Zeit:
 
 Ich war Sohn einer Elfin namens Naira und eines Menschen namens Gramarus. Wir lebten in einem kleinen Haus am Rande einer Stadt, in dem gelegentlich Wanderer unterkamen, die kein Geld für einen Gasthof hatten. Diese halfen uns meist bei Arbeiten am Haus oder bei der Pflege unserer Tiere und erhielten dafür einen Schlafplatz und warmes Essen. Eines Tages kam ein Elf zu uns, der einen sehr hochnäsigen Eindruck machte. Meine Mutter sagte, dass sie ihm den Zugang und Unterschlupf nicht verweigern durfte, da er vom selben Volk wie sie war. Mein Vater war dagegen, stimmte aber nach langer Diskussion schließlich zu. Meine Mutter widersetzte sich sich oft meinem Vater, was sie aus meiner Sicht nicht zu einem tollen Menschen machte.
 {: .story }
