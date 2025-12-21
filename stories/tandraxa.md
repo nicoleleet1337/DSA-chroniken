@@ -23,7 +23,6 @@ Nachdem er einige Zeit mit schiefem Kopf und zusammengekniffenen Augen vor dem s
 
 Hier blitzte wohl der verbliebene Dünkel des Adeligen hervor, dessen Bildung im Kindsalter Spuren der Kultur hinterließ, die jedem Abenteuer sonst abträglich wären. Skal hingegen genoss diesen Wissensschatz und setzte ihn lohnbringend ein. Mit einer schwungvollen Drehung beförderte er seine langen behaarten Beine aus der Bettmulde, die mehr wie eine Hängematte oder eine Koje auf See geformt war und streckte sich auf der Bettkante sitzend lang aus. Das eindrückliche Knacken seiner Wirbel verriet ihm, dass jenes Bett keineswegs die Bequemlichkeit einer echten Koje bot. In seinem Fell wuselten die Bettwanzen aufgeregt hin und her und verschwanden sofort in der aus Stroh gestopften Matratze. Davon wenig gerührt suchte Skal nach seinem Beinkleid und den Schuhen. Im müden Wahn hatte er sie unter die Schlafbank nahe des Fensterlochs geschleudert. Während er da so stand und halb bekleidet schlaftrunken durch die Löcher der Lappen nach draußen schaute, sah er die „Andar“ im sich hebenden Morgendunst vor sich liegen und ein wohliger Schauer lief ihm über den Rücken. „Oh ihr Wogen“, raunte er zu sich selbst und lächelte, als er die ersten Worte eines alten Liedes der Seefahrer aussprach. 
 
-<p style="text-align: center;">
 Oh ihr Wogen 
 Dient dem Meer
 Geht hin geht her
@@ -31,9 +30,8 @@ Fern des Heims
 Kein Glücke mehr
 Keins
 Habt gelogen
-Oh ihr Wogen</p>
+Oh ihr Wogen
   
-<p style="text-align: center;">
 Oh ihr Wogen
 Liebe mein
 Tanz lasst sein
@@ -41,7 +39,7 @@ In der Ferne
 Tragt tot Gebein
 Gerne
 Wurdet betrogen
-Oh ihr Wogen</p>
+Oh ihr Wogen
 
 Ursprung des Textes ist nicht bekannt, doch wird er von einer Generation an die nächste der Seeleute weitergereicht und mahnt so die jungen unerfahrenen Draufgänger, die glauben die See zu beherrschen, niemals dem Hochmut zu verfallen. Im Schritte eines Trauermarsches vorgetragen dient dies Lied auch bei einem Begräbnis eines Seemanns als schauerliche Untermalung. Wie oft stand Skal schon vor der Planke, die ihn auf das Deck eines Schiffes führen sollte und wie oft hatte er eben jenes zwiespältige Gefühl im Herzen, welches sowohl Tatandrang, als auch Demut und Furcht ausmacht. Ein Gefühl der Zerrissenheit, wenn dem tapferen Seemann bewusst wird, dass er sich der See überantworten muss. Er gibt sich hin, mit all seinem Wissen und seiner Körperkraft, in der guten Hoffnung die Wogen mögen seiner Seele gnädig sein und ihn nicht verschlingen. Der Gedanke an die traute Heimat, das wohlige Feuer im Kamin, der Frieden und die grünen Auen. Sie lassen den nagenden Zweifel erstarken und versuchen den Absatz des Schuhs umzukehren, zurück in die Heimat zu lenken. Gleichauf ist der Drang der See, der Mut des Tapferen, da schwelt sie, die Abenteuerlust, die Lust auf den Schmerz und die Pein der harten Arbeit auf Deck. Der Duft des Wasser und des Teers, der modrige Gestank der alten Planken und der Reepen, der jeden anderen abstoßen würde, zieht in die Ferne hinaus. Die Welt erblicken, Meerwasser schmecken, fremde Lüfte atmen, eine Wonne für den lustigen Seemann. Da erbebt der Körper und zucken die Muskeln, da frohlockt der Leib und will hinaus, sich beweisen. „Ja“, bricht es aus Skal hervor. „Ja, zur See!“ ruft er für sich allein im Zimmer stehend und wendet sich hastig dem Packen seines Seesacks zu.
 
