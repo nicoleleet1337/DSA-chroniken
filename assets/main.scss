@@ -79,3 +79,13 @@ a:hover {
 .symbol.nature { color: #6b8e23; }        /* 🌿 */
 .symbol.secret { color: #956b41; }       /* ⚚ */
 .symbol.decor { color: #bfa15f; }         /* ❂ */
+
+.story p:first-of-type::first-letter {
+  float: left;
+  font-size: 4.5rem;
+  line-height: 0.9;
+  padding-right: 0.35rem;
+  font-family: "Cinzel", serif;
+  color: #5a3d1c;
+}
+
