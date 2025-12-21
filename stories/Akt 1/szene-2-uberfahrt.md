@@ -1,7 +1,7 @@
 - - -
-# Die Überfahrt
-## Ein Wagnis zur See
-- - -
+<span class="symbol chapter">✦</span> **Die Überfahrt**
+<span class="symbol travel">➳</span>**Ein Wagnis zur See**
+
 *Majestätisch ziehen die Wogen, von weißen Kronen gekrönt, durch das Stahlblau des Meeres. Die Sonne fängt sich in ihnen und sie brechen ihr Licht in tausend Farben.
 Gülden leuchtet das Meer am Morgen, erstrahlt des Tages grün und blau und liegt wie ein schwarzer Schleier des nächtens über der Welt, in dessen Falten und Tälern sich das Mondlicht fängt.*
 - - -
