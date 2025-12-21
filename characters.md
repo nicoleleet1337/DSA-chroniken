@@ -17,10 +17,10 @@ die man besser nicht nachts trifft.
 - [Ren](characters/ren.md)
 
 ### <ins>Weggefährten</ins>
-- [Murk](characters/murk.md)
+- [Murk](placeholder.md)
 
 ### <ins>Personen</ins>
-- [Prinzessin](characters/prinzessin.md)
+- [Prinzessin](placeholder.md)
 
 ### <ins>Gestalten</ins>
-- [Seestern](characters/seestern.md)
+- [Seestern](placeholder.md)
