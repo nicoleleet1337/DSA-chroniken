@@ -1,4 +1,8 @@
-Auf der Jagd durch die grünen Gefilde des tiefen aventurischen Waldes, eifrig den Fährten nacheifernd, rennt Skalli deVarg durch das Unterholz.  
+- - -
+<span class="symbol chapter">✦</span> **Skals Höhle**
+<span class="symbol travel">➳</span> **Entscheidungen im Dunkeln.**
+
+Auf der Jagd durch die grünen Gefilde des tiefen aventurischen Waldes, eifrig den Fährten nacheifernd, rennt Skalli deVarg durch das Unterholz.
 Schwer geht sein Atem, der Herzschlag pulsiert in seinen Adern, Jagdfieber hat ihn ergriffen. In wütender Hatz sprintet er dem Bock hinterher, der in Todesangst seinem Verfolger zu entgehen sucht.
 Beinahe hätte er das Netz über den Kopf des Bockes zu werfen vermocht, doch ein weiteres Mal hat er sich der Umklammerung entziehen können.  
 Da gibt er Boden unter Skals Füßen nach und er rutscht einen Abhang hinab, vorbei an dicken Eichen und durch dichtes Gesträuch. Äste peitschen ihm durch das Gesicht und er landet, mit Blättern im Fell und von Erdreich bedeckt, schmerzvoll auf dem Boden des Tales, in das er rutschte.
