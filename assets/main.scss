@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Merriweather', serif;
-  background-color: #f4f1ec; /* warmes Pergament */
+  background-color: #f7f1e1; /* warmes Pergament */
   color: #2b2b2b;            /* dunkles Anthrazit */
 }
 
@@ -22,10 +22,9 @@ body {
 }
 
 /* === Überschriften === */
-h1, h2, h3 {
-  color: #1f2a24;
-  text-shadow: 0 1px 1px rgba(0,0,0,0.1);
-}
+h1 { color: #2e3b2e; text-shadow: 0 1px 1px rgba(0,0,0,0.1);}
+h2 { color: #3c5a44; text-shadow: 0 1px 1px rgba(0,0,0,0.1); border-bottom: 1px solid #a89b87; }
+h3 { color: #3c5a44; text-shadow: 0 1px 1px rgba(0,0,0,0.1); }
 
 h2 {
   border-bottom: 1px solid #cfc8bc;
@@ -63,7 +62,17 @@ a:hover {
 
 /* === Kleine Symbole für Kapitel etc. === */
 .symbol {
-  color: #4a6a5c;
   font-size: 1.2rem;
   margin-right: 0.3em;
 }
+
+.symbol.chapter { color: #bfa15f; }       /* ✦ */
+.symbol.break { color: #cfc8bc; }         /* ❖ */
+.symbol.magic { color: #8b5e3c; }         /* ⚝ */
+.symbol.moon { color: #4a6a5c; }          /* ☾ */
+.symbol.sun { color: #e0b04c; }           /* ☀ */
+.symbol.travel { color: #4a6a5c; }        /* ➳ */
+.symbol.npc { color: #5f856e; }           /* ✺ */
+.symbol.nature { color: #6b8e23; }        /* 🌿 */
+.symbol.secret { color: #956b41; }       /* ⚚ */
+.symbol.decor { color: #bfa15f; }         /* ❂ */
