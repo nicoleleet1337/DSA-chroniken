@@ -8,8 +8,7 @@ Gülden leuchtet das Meer am Morgen, erstrahlt des Tages grün und blau und lieg
 
 Der Wind spielt mit dem Wasser und lässt es lautstark gegen den Rumpf schlagen.
 Mal ist der Wind ein seliger Freund, der Dein Haar ergreift und es zärtlich durchfährt, doch mit einem Male ist es der peitschende eisige salzige Wind, der dröhnend in die Segel fährt, der Taue und Wanten zum Knarren und Ächzen bringt. 
-Er ist es, der das Schiff stampfend, rollend, eintauchend, die flüssigen Berge des Meeres erklimmt lässt. Und er ist es auch, der es in die schäumenden düsteren Täler hinabgleiten lässt.
-{: .story }
+Er ist es, der das Schiff stampfend, rollend, eintauchend, die flüssigen Berge des Meeres erklimmt lässt. Und er ist es auch, der es in die schäumenden düsteren Täler hinabgleiten lässt.{: .story }
 
 Tiefer und tiefer treibt er die *„Seelöwe“* in das Herz des Perlenmeeres voran.
 Stetig weiter gen Norden. Kühn und wild, wie der Norden selbst.
