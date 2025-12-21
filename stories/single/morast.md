@@ -2,42 +2,21 @@
 <span class="symbol chapter">✦</span> **Flamme der Tandraxa**
 <span class="symbol travel">➳</span> **Ein Hauch der Endlichkeit**
 
-Der Wind strich kalt durch die Wipfel, als würde der Wald selbst flüstern. Vidar blieb stehen. Nicht aus Müdigkeit – Müdigkeit kannte er – sondern weil die Luft anders schmeckte. Asche lag darin. Alt, bitter, vertraut.
+Der Wald lag da wie ein altes Tier, das schon viele Winter überlebt hatte. Seine Stämme standen dicht beieinander, krumm und verwachsen, die Rinde aufgerissen von Zeit und Wetter. Moos hing in schweren, feuchten Polstern an den Wurzeln, und aus den Spalten des Bodens kroch kalter Nebel, der sich träge zwischen Farn und Unterholz bewegte. Das Licht des späten Tages sickerte nur spärlich durch das Blätterdach und brach sich grünlich im Dunst, als sei selbst die Sonne hier ein Gast, der nicht lange bleiben wollte.
 
-Er kniete nieder und strich mit den Fingern über den Boden. Schwarze Erde. Verkohlte Nadeln. Ein Feuer war hier gewesen. Nicht wild und hungrig wie ein Blitzschlag, sondern gezielt, geführt. Gezähmt – so, wie nur Menschen Feuer zähmen. Oder Magier.
+Über allem lag der Geruch von Harz, feuchter Erde und etwas anderem – ein bitterer Beigeschmack, der nicht hierhergehörte. Asche. Sie zeichnete graue Schleier über den Waldboden, sammelte sich in kleinen Mulden und haftete an den Nadeln der Tannen, als hätte es hier geschneit, nur dass dieser Schnee nach Tod roch. Verkohlte Baumstümpfe ragten wie schwarze Finger aus dem Boden, ihre Jahresringe offenbart, aufgerissen von Hitze. Kein natürliches Feuer hatte hier gewütet. Dafür war die Zerstörung zu gezielt, zu sauber.
 
-Ein leiser Laut entfuhr ihm, kaum mehr als ein Knurren. Bilder drängten sich vor sein inneres Auge: Flammen, die an Holz leckten, Schreie, die im Rauch erstickten, der Geruch von verbranntem Fell und Blut. Seine Finger krampften sich unwillkürlich zusammen. Die Narbe an seiner Seite zog, als wolle sie ihn mahnen.
+Zwischen den Resten eines alten Lagers lagen zerbrochene Gerätschaften: ein umgestürzter Dreifuß, dessen Kessel zu Schlacke verschmolzen war, Riemen aus Leder, steif und schwarz, und dazwischen Spuren, die der Regen noch nicht ganz ausgelöscht hatte. Stiefelabdrücke. Barfußspuren. Kleine Brandmale im Boden, kreisförmig, als hätte jemand das Feuer selbst geführt wie ein Werkzeug.
 
-Er stand auf, langsam, wie ein Jäger, der weiß, dass er selbst Teil der Beute geworden ist.
+Weiter im Innern des Waldes veränderte sich die Stille. Das übliche Knacken von Ästen, das Rascheln kleiner Tiere, selbst das Summen der Insekten fehlte. Die Luft war warm, unnatürlich warm, und schien schwerer zu werden mit jedem Schritt. Zwischen den Bäumen öffnete sich eine Lichtung, und dort erhob sich ein Turm.
 
-Zwischen den verkohlten Resten eines Lagers lag etwas Unpassendes: ein fein gearbeiteter Bogen, die Sehne zerrissen, das Holz von Hitze gesprungen. Elfenarbeit. Vidar spuckte aus. Seine Kiefer mahlten. Elfen kamen nicht ohne Grund hierher. Und Feuer folgte ihnen zu oft.
+Er war alt, älter als die Pfade, älter als die Geschichten, die man sich in den Dörfern erzählte. Grobe Steinquader bildeten sein Fundament, überwuchert von Efeu und Flechten, doch weiter oben war das Mauerwerk geschwärzt, von Ruß gezeichnet. Runen waren in den Stein gebrannt, nicht gemeißelt – ihre Linien unruhig, verzerrt, als hätten sie sich im Moment des Entstehens gewehrt. Ein fahles, rötliches Leuchten pulsierte darin, kaum sichtbar, wie das Glimmen von Kohlen unter Asche.
 
-Ein schwaches Stöhnen ließ ihn herumfahren.
+Der Boden um den Turm war tot. Kein Gras wuchs hier, keine Blume. Der Waldboden war hart und rissig, als hätte das Feuer ihm alles Wasser ausgesogen. In der Mitte der Lichtung stand ein steinerner Kreis, die Monolithen gesprungen, ihre Spitzen abgeschlagen. In der Luft hing der Geruch von verbranntem Holz, altem Blut und Magie – scharf, metallisch, unangenehm auf der Zunge.
 
-Sie lag halb im Farn, das Gesicht aschfahl, das silbrige Haar vom Ruß verklebt. Ein Pfeil hatte ihre Schulter gestreift, mehr Fleisch als Knochen, doch das Blut war dunkel und langsam – Gift vielleicht, oder schlicht Erschöpfung. Ihre Augen öffneten sich einen Spalt, und für einen Herzschlag trafen sich ihre Blicke.
+Und doch war da noch etwas anderes. Ein leiser Widerhall, kaum hörbar, wie das ferne Seufzen eines Wesens, das hier nicht sein sollte. Etwas Gebundenes. Etwas, das der Wald selbst vermisste.
 
-Angst. Erkenntnis. Hoffnung.
+Über der Szene lag das Zwielicht des Abends. Die Schatten wurden länger, krochen über den Boden, als wollten sie den Turm zurückfordern. Hoch oben kreiste kein Vogel. Selbst der Wind schien den Ort zu meiden.
 
-Vidar verharrte. In seinem Inneren rangen zwei Stimmen miteinander. Die eine flüsterte von Feuer und Schuld, von altem Hass und offenen Rechnungen. Die andere erinnerte ihn an Hände, die ihn einst aus der Asche gezogen hatten. An Stimmen, die sagten: Du lebst noch. Also geh weiter.
-
-Er kniete sich schließlich neben sie. Seine Bewegung war grob, doch seine Hände kannten diese Arbeit. Jägerhände. Überlebendehände. Er riss Stoff von seinem Mantel, band die Wunde ab. Die Elfe keuchte, doch sie wehrte sich nicht.
-
-„Feuerodem“, flüsterte sie, kaum hörbar. „Sie reinigen… mit Flammen.“
-
-Vidars Blick verdunkelte sich. Ein Name, der nach Wahnsinn klang – und nach Wahrheit.
-
-Der Turm lag am Rand des alten Waldes, ein zerfallenes Relikt aus Zeiten, in denen Menschen glaubten, Stein könne ewig sein. Jetzt war er geschwärzt, von Runen durchzogen, die selbst aus der Ferne hitzig pulsierten. Wärme lag in der Luft, unnatürlich, wie der Atem eines schlafenden Ungeheuers.
-
-Drinnen sang das Feuer. Es flackerte in Kreisen, genährt von Glyphen und Blut. In seinem Zentrum schwebte ein Wesen aus Wurzel und Licht – ein gebundener Waldgeist, verzerrt vor Schmerz. Davor stand der Magier. Jung. Zu jung. Die Augen fiebrig, die Lippen zu einem Lächeln verzogen, das nichts mit Freude zu tun hatte.
-
-„Du bist spät“, sagte er, ohne sich umzudrehen. „Aber Feuer wartet. Immer.“
-
-Vidar zog seine Klinge. Kein Zögern. Kein Schrei. Nur der alte, vertraute Druck in der Brust.
-
-Als alles vorbei war, stand der Turm still. Die Runen erloschen. Der Wald atmete auf.
-
-Vidar trat hinaus ins Dämmerlicht. Der Rauch verzog sich langsam zwischen den Bäumen. Er sah nicht zurück. Manche Brände löscht man. Andere trägt man für immer in sich.
-
-Doch während er ging, war da etwas Neues in seinem Schritt. Kein Frieden – dafür war es zu früh. Aber Richtung.
-
-Und der Wald schwieg ihm nicht mehr feindselig entgegen.
+Dies war kein Ort für Zufall.
+Dies war ein Ort, an dem Entscheidungen getroffen worden waren – und an dem weitere getroffen werden mussten.
