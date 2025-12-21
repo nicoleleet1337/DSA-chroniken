@@ -9,9 +9,11 @@ title: Geschichten
 
 *Das Abenteuer ist aufgeteilt in drei Akte. Jeder Akt ist unterteilt in Szenen. Im Schnitt behandelten wir pro Sitzung 5-7 Szenen. 
 In den folgenden Seiten werden die von mir vorgelesenen szenerischen Beschreibungen wiedergegeben und Eure Erlebnisse erzählt.*
-- Akt 1 = 17 Szenen
-- Akt 2 = 19 Szenen
-- Akt 3 = 18 Szenen
+- [x] Akt 1: Inhalt 17 Szenen
+- [ ] Akt 2: Inhalt 19 Szenen
+- [ ] Akt 3: Inhalt 18 Szenen
+
+(*Stand: 20.12.2025*)
 
 #### <ins>Akt 1</ins>
 - [Szene 1 Am Hafen](stories/Akt 1/szene-1-am-hafen.md)
