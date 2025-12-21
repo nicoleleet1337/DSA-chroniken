@@ -3,6 +3,7 @@
 <span class="symbol travel">➳</span> **Ein Hauch der Endlichkeit**
 
 Der Wald lag da wie ein altes Tier, das schon viele Winter überlebt hatte. Seine Stämme standen dicht beieinander, krumm und verwachsen, die Rinde aufgerissen von Zeit und Wetter. Moos hing in schweren, feuchten Polstern an den Wurzeln, und aus den Spalten des Bodens kroch kalter Nebel, der sich träge zwischen Farn und Unterholz bewegte. Das Licht des späten Tages sickerte nur spärlich durch das Blätterdach und brach sich grünlich im Dunst, als sei selbst die Sonne hier ein Gast, der nicht lange bleiben wollte.
+{: .story }
 
 Über allem lag der Geruch von Harz, feuchter Erde und etwas anderem – ein bitterer Beigeschmack, der nicht hierhergehörte. Asche. Sie zeichnete graue Schleier über den Waldboden, sammelte sich in kleinen Mulden und haftete an den Nadeln der Tannen, als hätte es hier geschneit, nur dass dieser Schnee nach Tod roch. Verkohlte Baumstümpfe ragten wie schwarze Finger aus dem Boden, ihre Jahresringe offenbart, aufgerissen von Hitze. Kein natürliches Feuer hatte hier gewütet. Dafür war die Zerstörung zu gezielt, zu sauber.
 
