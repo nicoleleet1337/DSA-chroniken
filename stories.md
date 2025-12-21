@@ -24,6 +24,13 @@ In den folgenden Seiten werden die von mir vorgelesenen szenerischen Beschreibun
 - [Szene 8 Abwässer](stories/Akt 1/szene-8-abwasser.md)
 - [Szene 9 Goblins](stories/Akt 1/szene-9-goblins.md)
 - [Szene 10 Reise](stories/Akt 1/szene-10-reise.md)
+- Szene 11
+- Szene 12
+- Szene 13
+- Szene 14
+- Szene 15
+- Szene 16
+- Szene 17
 
 #### <ins>Akt 2</ins>
 
