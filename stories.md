@@ -20,7 +20,7 @@ In den folgenden Seiten werden die von mir vorgelesenen szenerischen Beschreibun
 
 ## Einzelabenteuer
 
-*Abenteuer für Skal. Erkundung einer Höhle in denen Schmugler hausen.*
+*Abenteuer für Skal.*
 - [Skals Höhle](stories/single/skals-hoehle.md)
 
 *Abenteuer für Vidar.*
