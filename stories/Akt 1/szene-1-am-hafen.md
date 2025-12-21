@@ -5,8 +5,8 @@
 *Nebelschwaden, einige einsam kreisende Möwen, viele Liegeplätze für Schiffe, nur einer davon belegt mit der „Seelöwe“, die ersten Händler eröffnen ihre Stände und Läden, das Schiff liegt in der Morgensonne leise schwankend an der Hafenmauer, vor dem Schiff ist eine Schlange wartender Passagiere, an einem kleinen Tisch sitzt ein kleiner Kerl und schreibt Dinge auf.*
 - - -
 
-Es ist früher Morgen an einem eigentlich klaren Tag des Monats Ingerimm (Mai), der späte Frühling geht zu Ende, doch der Nebel liegt schwer auf dem weitläufigen Hafen der Hauptstadt der Markgrafschaft Beilunk, so schwer, dass selbst die Möwen nicht recht fliegen wollen. 
-Das fahle milchige Licht der Sonne wirft nur widerwillig Schatten auf dem Boden und so wirkt es wie im Traum, die Silhouette des großen Handelsschiffs vor sich in einiger Entfernung stehen zu sehen.
+<div class="story">Es ist früher Morgen an einem eigentlich klaren Tag des Monats Ingerimm (Mai), der späte Frühling geht zu Ende, doch der Nebel liegt schwer auf dem weitläufigen Hafen der Hauptstadt der Markgrafschaft Beilunk, so schwer, dass selbst die Möwen nicht recht fliegen wollen. 
+Das fahle milchige Licht der Sonne wirft nur widerwillig Schatten auf dem Boden und so wirkt es wie im Traum, die Silhouette des großen Handelsschiffs vor sich in einiger Entfernung stehen zu sehen.</div>
 Leise wiegt es sich in der leichten Dünung hin und her. Die Tampen (Seile/Taue) der Takelage flattern in jeder kleinsten Windböe und ihre Beschläge und alle Rollen klimpern lustig singend im Wind. 
 Der Platz vor dem Anlegeplatz ist geformt wie ein großes Dreieck mit einer Kantenlänge von fünfzig Schritt. 
 
