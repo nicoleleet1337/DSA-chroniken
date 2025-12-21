@@ -9,6 +9,6 @@ Ich leitete Euch durch die Finsternis der Welten und zeigte Euch das Licht des M
 Hier nun steht geschrieben, was besungen wird, in fernen Landen.  
 Erzählungen der Alten, denen junge Ohren lauschen; von Eurem Ruhm und Stolz.
 
-<p style="text-align: center;"><span class="symbol sun">☀</span><span class="symbol moon">☾</span>  
-  <span class="symbol magic">⚝</span>Nichts hiervon ist vollständig wahr.<span class="symbol magic">⚝</span>  
-<span class="symbol magic">⚝</span>Doch alles ist geschehen.<span class="symbol magic">⚝</span></p>  
+<p style="text-align: center;"><span class="symbol sun">☀</span><span class="symbol moon">☾</span></p>   
+<p style="text-align: center;"><span class="symbol magic">⚝</span>Nichts hiervon ist vollständig wahr.<span class="symbol magic">⚝</span></p> 
+<p style="text-align: center;"><span class="symbol magic">⚝</span>Doch alles ist geschehen.<span class="symbol magic">⚝</span></p>  
