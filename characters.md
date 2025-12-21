@@ -12,3 +12,14 @@ die man besser nicht nachts trifft.
 - [Anysia](characters/anysia.md)
 - [Hardred](characters/hardred.md)
 - [Nagual](characters/nagual.md)
+- [Alerik](characters/alerik.md)
+- [Nesuda](characters/nesuda.md)
+
+### <ins>Weggefährten</ins>
+- [Murk](characters/murk.md)
+
+### <ins>Personen</ins>
+- [Prinzessin](characters/prinzessin.md)
+
+### <ins>Gestalten</ins>
+- [Seestern](characters/seestern.md)
