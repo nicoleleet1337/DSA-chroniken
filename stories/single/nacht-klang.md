@@ -2,7 +2,8 @@
 <span class="symbol chapter">✦</span> **Klang der Nacht**
 <span class="symbol travel">➳</span> **Und die Stimme der Vernunft**
 
-Die Sonne senkt sich behäbig hinter den sommerlichen Wäldern im Westen. 
-Weit entfernt ragen die hohen Zinnen der ‚Eisernen Sichel‘, das mächtige Gebirge des Bornlands, in den Himmel und grüßen Dich mit einem feurigen Zinoberrot, glühend und erhaben über die Ewigkeit. Goldenes Licht flutet über die Wipfel der Nadelbäume, rings um Dich. Das Abendkonzert der Vögel hat begonnen und Du lauscht verträumt ihren wunderschönen Stimmen. 
+Die Sonne senkt sich behäbig hinter den sommerlichen Wäldern im Westen. Weit entfernt ragen die hohen Zinnen der ‚Eisernen Sichel‘, das mächtige Gebirge des Bornlands, in den Himmel und grüßen Dich mit einem feurigen Zinoberrot, glühend und erhaben über die Ewigkeit. Goldenes Licht flutet über die Wipfel der Nadelbäume, rings um Dich. Das Abendkonzert der Vögel hat begonnen und Du lauscht verträumt ihren wunderschönen Stimmen. 
+{: .story }
+
 Du sitzt hoch im Wipfel eines Baumes, eine alte starke Eiche, hunderte Jahre alt. Sie wiegt sich sanft im lauen Abendwind hin und her. Der Ast auf dem Du sitzt und Deine Beine baumeln lässt, schwankt leicht und Du fühlst die Umarmung der Natur. Hier soll Dein Nachtlager sein, in der Geborgenheit dieser mächtigen Eiche.
 Noch ehe das letzte Licht der Sonne vollständig verloschen ist, hörst Du, erstaunlich nah, einen hellen, zarten Ton. Kristallklar, rein, singend, metallisch. Alle prar Atemzüge erklingt er und weckt Deine Neugierde
