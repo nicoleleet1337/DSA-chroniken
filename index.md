@@ -3,7 +3,7 @@
 Dies ist die Sammlung der Berichte, Karten und Erinnerungen unserer Wege
 durch das raue Land zwischen Moor, Wald und kaltem Himmel.
 
-Einige Seelen sind bereits verloren und wir trauern um sie (oder auch nicht).  
+Einige Seelen sind bereits verloren und wir trauern um sie ~~(oder auch nicht)~~.  
 Ihr wart mir treu und wahrer Heldenmut glühte in Euch zu düsterer Stunde.  
 Ich leitete Euch durch die Finsternis der Welten und zeigte Euch das Licht.  
 Hier nun steht geschrieben, was besungen wird, in fernen Landen.  
