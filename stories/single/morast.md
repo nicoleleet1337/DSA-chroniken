@@ -1,3 +1,7 @@
+- - -
+<span class="symbol chapter">✦</span> **Flamme der Tandraxa**
+<span class="symbol travel">➳</span> **Ein Hauch der Endlichkeit**
+
 Der Wind strich kalt durch die Wipfel, als würde der Wald selbst flüstern. Vidar blieb stehen. Nicht aus Müdigkeit – Müdigkeit kannte er – sondern weil die Luft anders schmeckte. Asche lag darin. Alt, bitter, vertraut.
 
 Er kniete nieder und strich mit den Fingern über den Boden. Schwarze Erde. Verkohlte Nadeln. Ein Feuer war hier gewesen. Nicht wild und hungrig wie ein Blitzschlag, sondern gezielt, geführt. Gezähmt – so, wie nur Menschen Feuer zähmen. Oder Magier.
