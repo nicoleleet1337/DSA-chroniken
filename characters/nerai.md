@@ -3,6 +3,7 @@
 <span class="symbol travel">➳</span> **Alles hat seinen Platz**
 
 #### Die Natur ist nicht gnädig. Aber sie ist gerecht.
+<img src="images/nerai.jpg" alt="nerai" class="responsive-img">
 
 Der Wald wird leiser, noch bevor ihr sie seht. Kein Vogelruf verstummt, vielmehr verhält es sich, als sei beschlossen, fortan nicht zu stören. Balsam der Stille.
 {:.story}
