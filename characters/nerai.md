@@ -3,9 +3,7 @@
 <span class="symbol travel">➳</span> **Alles hat seinen Platz**
 
 #### Die Natur ist nicht gnädig. Aber sie ist gerecht.
-<img src="https://nicoleleet1337.github.io/DSA-chroniken/images/nerai.jpg" alt="nerai" class="responsive-img">
-
-Der Wald wird leiser, noch bevor ihr sie seht. Kein Vogelruf verstummt, vielmehr verhält es sich, als sei beschlossen, fortan nicht zu stören. Balsam der Stille.
+<img src="https://nicoleleet1337.github.io/DSA-chroniken/images/nerai.jpg" alt="nerai" class="responsive-img"> Der Wald wird leiser, noch bevor ihr sie seht. Kein Vogelruf verstummt, vielmehr verhält es sich, als sei beschlossen, fortan nicht zu stören. Balsam der Stille.
 {:.story}
 
 Zwischen den Stämmen tritt eine Frau hervor, in blaue, grüne und erdige Gewändern gehüllt, welche wirken, als seien sie gewachsen statt genäht. Ihr Haar trägt Spuren von Silber, nicht als Zeichen von Alter, sondern der Zeit. Sie steht ruhig, aufrecht, ohne Eile und doch liegt in ihrer Haltung Unausweichliches.
