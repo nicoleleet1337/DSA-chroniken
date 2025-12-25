@@ -91,9 +91,9 @@ a:hover {
 }
 
 .responsive-img {
+  float: right;
   width: 35%;
   max-width: 350px;
   height: auto;
-  display: block;
-  margin: 1rem auto;
+  margin: 0.25rem 0 1rem 1rem; 
 }
