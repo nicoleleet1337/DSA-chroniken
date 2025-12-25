@@ -3,7 +3,7 @@
 <span class="symbol travel">➳</span> **Alles hat seinen Platz**
 
 #### Die Natur ist nicht gnädig. Aber sie ist gerecht.
-<img src="images/nerai.jpg" alt="nerai" class="responsive-img">
+<img src="https://nicoleleet1337.github.io/DSA-chroniken/images/nerai.jpg" alt="nerai" class="responsive-img">
 
 Der Wald wird leiser, noch bevor ihr sie seht. Kein Vogelruf verstummt, vielmehr verhält es sich, als sei beschlossen, fortan nicht zu stören. Balsam der Stille.
 {:.story}
@@ -12,7 +12,7 @@ Zwischen den Stämmen tritt eine Frau hervor, in blaue, grüne und erdige Gewän
 
 Eine Elster sitzt auf ihrer Hand. Nicht gezähmt. Nicht gebunden. Sie ist einfach da. Aus freiem Willen.
 
-„In den Landen aus Eis, nennt man mich Agutschuk, die Tröstende. In den Landen der glühenden Sande bin ich Il-A-Mah-Dib, die kühlende Wolke. Hier nennt mich Nerai und so sollt ihr mich heißen“, sagt sie schließlich, und ihre Stimme ist warm, tief, ruhig.
+„In den Landen aus Eis, nennt man mich Agutschuk, die Tröstende. In den Landen der glühenden Sande bin ich Il-A-Mah-Dib, die kühlende Wolke. In diesem Land nennt man mich Nerai und so sollt ihr mich heißen“, sagt sie schließlich, und ihre Stimme ist warm, tief, ruhig.
 Eine Stimme, die schon Streit geschlichtet hat, bevor er begann, und Kriege überdauert hat, die andere vergessen wollten. „Anderswo trug ich weitere Namen. Aber hier genügt dieser.“
 
 Sie ist Heilerin, wo Heilung möglich ist. 
