@@ -11,6 +11,7 @@ die man besser nicht nachts trifft.
 - [Vidar](characters/vidar.md)
 - [Anysia](characters/anysia.md)
 - [Hardred](characters/hardred.md)
+- [Nerai](characters/nerai.md)
 - [Nagual](characters/nagual.md)
 - [Alerik](characters/alerik.md)
 - [Nesuda](characters/nesuda.md)
